@@ -5,7 +5,11 @@ using namespace std;
 // TODO: Step 1 - Define the struct TemperatureRecord
 // It should contain two integer fields: day and temperature.
 
-
+// Sophia Navarro
+struct TemperatureRecord {
+    int day;
+    int temperature;
+};
 // Constants
 const int MAX_DAYS = 31;
 
